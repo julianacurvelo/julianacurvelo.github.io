@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: Sobre Mim
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-03-22
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
+## Interesses
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
@@ -34,4 +32,3 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
